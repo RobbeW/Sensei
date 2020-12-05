@@ -1,17 +1,18 @@
 # Sensei
 Sensei is your study guide. 
 
-Final project for the Building AI course
 
 
 
-## Summary
+
+##Summary
 Sensei is an web app for students (ages 12 - 18y) that encompasses three pages: a dual-mode chatbot, a study scheduler and a feedback pane. Sensei is build to empower student learning by using a data-driven approach. 
 
 <img src="DSC09849.jpg" width="300">
 
+Final project for the Building AI course
 
-## Background
+##Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
